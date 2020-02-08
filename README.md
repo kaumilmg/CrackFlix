@@ -1,4 +1,5 @@
 # CrackFlix [Free Version]
+[![Run on Repl.it](https://repl.it/badge/github/1337r00t/CrackFlix)](https://repl.it/github/1337r00t/CrackFlix)
 Brute Force NetFlix using API NetFlix.<br>
 `~# ./netflix.py`<br>
 `        ==================================`<br>
